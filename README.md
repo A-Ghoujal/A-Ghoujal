@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="500" height="250" src=https://gifdb.com/images/thumbnail/coding-skills-loading-dk68v8z0hevjpuiv.gif>
+<img align="center" alt="Coding" width="1000" height="250" src=https://gifdb.com/images/thumbnail/coding-skills-loading-dk68v8z0hevjpuiv.gif>
 <h1 align="center">Hi 👋, I'm Abdulrahman Ghoujal</h1>
 <h3 align="center">I'm Full stack developer ...</h3>
 <img align="center" alt="Coding" width="1000" height="500" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
