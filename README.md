@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-ghoujal" alt="a-ghoujal" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning : **Javascript**
 
-- 📫 How to reach me **Abdogohjal@gmail.com**
+- 📫 How to reach me : **Abdogohjal@gmail.com**
 
-- 📄 Know about my experiences [loading ...](loading ...)
+- 📄 Know about my experiences (loading ...)
 
 - ⚡ Fun fact **Stressed is Desserts spelled backwards.**
 
