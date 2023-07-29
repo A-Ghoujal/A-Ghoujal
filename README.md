@@ -8,10 +8,9 @@
 <div align="center">
   <img align="center" alt="Coding" style="max-width: 100%; height: auto;" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 </div>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-ghoujal&label=Profile%20views&color=0e75b6&style=flat" alt="a-ghoujal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-ghoujal" alt="a-ghoujal" /></a> </p>
 
 - 🌱 I’m currently learning : **Typescript**
 
