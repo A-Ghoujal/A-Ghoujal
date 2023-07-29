@@ -1,10 +1,3 @@
-<style>
-  .neon-light {
-    max-width: 100%;
-    height: auto;
-    box-shadow: 0 0 20px 5px rgba(0, 255, 255, 0.7);
-  }
-</style>
 
 <div align="center">
   <img box-shadow: 0 0 20px 5px rgba(0, 255, 255, 0.7) align="center" alt="Coding" src="https://gifdb.com/images/thumbnail/coding-skills-loading-dk68v8z0hevjpuiv.gif">
