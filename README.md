@@ -16,7 +16,7 @@
 
 - 📫 How to reach me : **Abdogohjal@gmail.com**
 
-- 📄 Know about my experiences visit my portfolio ( https://a-ghoujal.github.io/Portfolio-H-C/ )
+- 📄 Know more about me visit my portfolio ( https://a-ghoujal.github.io/Portfolio-H-C/ )
 
 - ⚡ Fun fact : **Stressed is Desserts spelled backwards.**
 
