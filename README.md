@@ -1,5 +1,12 @@
+<style>
+  .neon-light {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 0 20px 5px rgba(0, 255, 255, 0.7); /* Change the color and adjust values for desired effect */
+  }
+</style>
 <div align="center">
-  <img align="center" alt="Coding" style="max-width: 100%; height: auto;" src="https://gifdb.com/images/thumbnail/coding-skills-loading-dk68v8z0hevjpuiv.gif">
+  <img  class= "neon-light" align="center" alt="Coding" style="max-width: 100%; height: auto;" src="https://gifdb.com/images/thumbnail/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Abdulrahman Ghoujal<br>graduated from <br>HackYourFuture</h1>
