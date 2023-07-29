@@ -2,7 +2,7 @@
   .neon-light {
     max-width: 100%;
     height: auto;
-    box-shadow: 0 0 20px 5px rgba(0, 255, 255, 0.7); /* Change the color and adjust values for desired effect */
+    box-shadow: 0 0 20px 5px rgba(0, 255, 255, 0.7);
   }
 </style>
 
