@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **Abdogohjal@gmail.com**
 
-- 👨‍💻 All of my projects are available at (https://a-ghoujal.github.io/Portfolio-H-C/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://a-ghoujal.github.io/Portfolio-H-C/)
 
 - ⚡ Fun fact : **Stressed is Desserts spelled backwards.**
 
