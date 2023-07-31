@@ -25,9 +25,7 @@
   <a href="https://linkedin.com/in/abdulrahman-ghoujal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-ghoujal" height="30" width="40" />
   </a> 
-  <a href="https://a-ghoujal.github.io/Portfolio-H-C/" target="blank">
-    <img align="center" src="https://thumbnail.imgbin.com/21/22/16/portfolio-icon-user-interface-vol-3-icon-0cMwkFyn_t.jpg" alt="abdulrahman-ghoujal" height="30" width="40" />
-  </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
