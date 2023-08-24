@@ -7,7 +7,7 @@
 <br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=a-ghoujal&label=Profile%20views&color=0e75b6&style=flat" alt="a-ghoujal" /></p>
 
-- 🌱 I’m currently learning : **Typescript **
+- 🌱 I’m currently learning : **Typescript**
 
 - 📫 How to reach me : **Abdogohjal@gmail.com**
 
