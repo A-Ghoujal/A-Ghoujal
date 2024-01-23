@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Ghoujal<br>graduated from <br>HackYourFuture</h1>
 <h3 align="center">I'm Front-end developer... </h3>
 <div align="center">
-  <img align="center" alt="![image](https://github.com/A-Ghoujal/A-Ghoujal/assets/118555267/4b7504c9-a233-45ae-8490-dfb12780c7e0)
-">
+  
 </div>
 <br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=a-ghoujal&label=Profile%20views&color=0e75b6&style=flat" alt="a-ghoujal"/></p>
